@@ -1,0 +1,16 @@
+{
+  "name": "@dreipol/stylelint-config-scss",
+  "version": "0.0.0",
+  "description": "dreipol stylelint config for the scss files",
+  "main": ".stylelintrc.js",
+  "scripts": {
+    "prepublish": "npm test",
+    "test": "node -e \"require('./')\""
+  },
+  "keywords": [],
+  "author": "Dreipol <dev@dreipol.ch> (http://dreipol.ch)",
+  "license": "MIT",
+  "peerDependencies": {
+    "stylelint-scss": "^3.3.1"
+  }
+}
