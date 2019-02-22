@@ -55,11 +55,11 @@ module.exports = {
     //'scss/double-slash-comment-whitespace-inside': 'never',
 
     // Declaration
-    'scss/declaration-nested-properties': 'never',
+    //'scss/declaration-nested-properties': 'never',
     'scss/declaration-nested-properties-no-divided-groups': true,
 
     // Media feature
-    'scss/media-feature-value-dollar-variable': 'always',
+    // 'scss/media-feature-value-dollar-variable': 'always',
 
     // Operator
     'scss/operator-no-newline-after': true,
