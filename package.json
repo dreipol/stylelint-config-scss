@@ -1,6 +1,6 @@
 {
   "name": "@dreipol/stylelint-config-scss",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "dreipol stylelint config for the scss files",
   "main": ".stylelintrc.js",
   "scripts": {
